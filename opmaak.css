@@ -1,1 +1,7 @@
 body { background-color: rgb(143, 99, 143);}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
