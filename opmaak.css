@@ -13,7 +13,7 @@ ul {
   a {
     display: block;
     text-align: center;
-    text-decoration: wavy;
+    text-decoration: none;
     padding: 18px 21px;
     background-color: #d7bcd8;
   }
