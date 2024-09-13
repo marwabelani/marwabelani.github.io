@@ -3,13 +3,17 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
   }
+
   li {
     float: left;
   }
   
   a {
     display: block;
-    padding: 8px;
+    text-align: center;
+    text-decoration: wavy;
+    padding: 14px; 16px
     background-color: #d7bcd8;
   }
