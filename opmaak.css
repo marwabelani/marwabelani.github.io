@@ -5,7 +5,7 @@ ul {
     padding: 0;
     overflow: hidden;
     width: 100%;
-    background-color: #d7bcd8;
+    background-color: #d774bc;
   }
 
   li {
@@ -17,7 +17,7 @@ ul {
     padding: 18px 21px;
     text-align: center;
     text-decoration: none;
-    background-color: #d7bcd8;
+    background-color: #d774bc;
   }
 
  h1{
@@ -26,7 +26,7 @@ ul {
  }
 
  li a:hover{
-  background-color:pink;
+  background-color:rgb(230, 100, 122);
  }
 
  
