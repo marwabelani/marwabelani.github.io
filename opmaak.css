@@ -4,6 +4,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    width: 100%;
+    background-color: #d7bcd8;
   }
 
   li {
@@ -12,7 +14,7 @@ ul {
   
   a {
     display: block;
-    padding: 18px; 21px
+    padding: 18px 21px;
     text-align: center;
     text-decoration: none;
     background-color: #d7bcd8;
