@@ -57,6 +57,14 @@ heb ik een ingevulde border gegeven*/
   gap: 10px;
  } /* zo heb ik de plaatjes onder elkaar gekregen*/
 
+ img {
+  display:block;
+  margin-bottom: 10px;
+  height: 150px;
+  width: 150px;
+  image-rendering: auto;
+  border: 10%;
+}
 
 .introductietwee {
   text-align: right;
