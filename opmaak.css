@@ -52,7 +52,7 @@ ul {
 
 /* De tekst waarvan ik een class had gemaakt genaamd: introductie
 heb ik een ingevulde border gegeven*/
-.image-column {
+.image-column {  /* hiermee zijn de plaatjes onder elkaar gegaan*/
   display: flex;
   flex-direction: column;
   
