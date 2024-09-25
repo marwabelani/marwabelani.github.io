@@ -10,8 +10,9 @@ ul {
     padding: 0;
     overflow: hidden;
     width: 100%;
-    background-color: #e3d7e0;
+    background-color: pink;
   }
+  /* menu gemaakt*/
 
   li {
     float: left;
