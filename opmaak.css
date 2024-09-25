@@ -66,10 +66,10 @@ img {
   border: 10%;
 }
 
- .plaatjes {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
- } /* zo heb ik de plaatjes onder elkaar gekregen*/
+.plaatjes img {
+  display: block;
+  margin-bottom: 10px;
+}
+  /* zo heb ik de plaatjes onder elkaar gekregen*/
 
  
