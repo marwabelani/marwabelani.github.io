@@ -66,7 +66,7 @@ img {
   image-rendering: auto;
   border: 10%;
 }
-.introtwee {
+.introtwee { /*een ingevulde border gemaakt voor het 2e stuk tekst over mij*/
   width: 40%;
   border:pink;
   background-color: pink;
@@ -75,6 +75,5 @@ img {
   margin-left: 9;
   border-radius: 10px;
 }
-  /* zo heb ik de plaatjes onder elkaar gekregen*/
 
  
