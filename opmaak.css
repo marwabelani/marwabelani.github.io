@@ -48,6 +48,7 @@ ul {
   padding: 9px;
   margin-left: 9;
   border-radius: 10px;
+ }
 
 /* De tekst waarvan ik een class had gemaakt genaamd: introductie
 heb ik een ingevulde border gegeven*/
@@ -66,7 +67,15 @@ img {
   image-rendering: auto;
   border: 10%;
 }
-
+.introtwee {
+  width: 40%;
+  border:pink;
+  background-color: pink;
+  color: black;
+  padding: 9px;
+  margin-left: 9;
+  border-radius: 10px;
+}
   /* zo heb ik de plaatjes onder elkaar gekregen*/
 
  
