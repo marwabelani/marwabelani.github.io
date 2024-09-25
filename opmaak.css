@@ -36,4 +36,15 @@ ul {
   background-color:rgb(213, 144, 200);
  }
 
+ .introductie {
+  width: 40%;
+  border:#e3d7e0;
+  background-color: #e3d7e0;
+  color:#e3d7e0
+  padding: 9px;
+  margin-left: 9;
+  border-radius: 10px;
+  
+
+ }
  
