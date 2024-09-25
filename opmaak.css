@@ -53,11 +53,10 @@ ul {
 heb ik een ingevulde border gegeven*/
 
 img {
-  height: 160px;
-  width: 160px;
-  image-rendering: auto;
-  border-radius: 10%;
-}
+  display:block;
+  margin-bottom: 10%;
+ 
 /* Opmaak van mijn plaatjes*/
+/* de block is om de plaatjes onder elkaar te zetten*/
  }
  
