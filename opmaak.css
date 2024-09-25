@@ -52,11 +52,10 @@ ul {
 /* De tekst waarvan ik een class had gemaakt genaamd: introductie
 heb ik een ingevulde border gegeven*/
 
-img {
+.onder elkaar {
   display:block;
   margin-bottom: 10px;
  
 /* Opmaak van mijn plaatjes*/
 /* de block is om de plaatjes onder elkaar te zetten*/
  }
- 
