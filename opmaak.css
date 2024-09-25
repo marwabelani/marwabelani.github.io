@@ -52,12 +52,11 @@ ul {
 
 /* De tekst waarvan ik een class had gemaakt genaamd: introductie
 heb ik een ingevulde border gegeven*/
-
- .plaatjes {
+.image-column {
   display: flex;
   flex-direction: column;
-  gap: 10px;
- } /* zo heb ik de plaatjes onder elkaar gekregen*/
+  
+}
 
 img {
   display:block;
