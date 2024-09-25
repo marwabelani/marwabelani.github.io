@@ -12,7 +12,7 @@ ul {
     width: 100%;
     background-color: pink;
   }
-  /* menu gemaakt*/
+  /* menu gemaakt, de 100% staat voor een menubalk die van links tot rechts loopt*/
 
   li {
     float: left;
@@ -33,10 +33,12 @@ ul {
   color:black;
   margin-left: 550px;
  }
+ /* tekst van menu*/
 
  li a:hover{
-  background-color:rgb(213, 144, 200);
+  background-color:rgb(253, 200, 233);
  }
+ /* kleur van als je met je muis op het menu gaat staan*/
 
  .introductie {
   width: 40%;
