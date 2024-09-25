@@ -55,7 +55,7 @@ heb ik een ingevulde border gegeven*/
   display: flex;
   flex-direction: column;
   gap: 10px;
- }
+ } /* zo heb ik de plaatjes onder elkaar gekregen*/
 
 img {
   display:block;
