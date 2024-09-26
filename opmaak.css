@@ -93,7 +93,11 @@ img { /* idk wat dit is*/
   border-radius: 10px;
   float: right;   /* deze alinea aan de rechter kant gezet want ziet er leuk uit*/
  }
+ .cmy-model { /*dit is het kopje dat ik ook naar de rechter kant van mijn pagina heb verplaatst*/
+  float:right;
+ }
  
+
  .kleurmodellen-3 {  /* een ingevulde border gemaakt voor mijn tekst*/
   width: 40%;
   border:pink;
