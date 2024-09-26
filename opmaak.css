@@ -52,11 +52,7 @@ ul {
 
 /* De tekst waarvan ik een class had gemaakt genaamd: introductie
 heb ik een ingevulde border gegeven*/
-.image-column {  /* hiermee zijn de plaatjes onder elkaar gegaan*/
-  display:-moz-grid-line;
-  flex-direction: column;
-  
-}
+
 
 img { /* idk wat dit is*/
   display:block;
