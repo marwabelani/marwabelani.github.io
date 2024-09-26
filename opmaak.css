@@ -106,3 +106,8 @@ img { /* idk wat dit is*/
  h2 {
   text-shadow:peru;
  }
+
+ p {
+  font-size: 20px;
+  font-style: oblique;
+ }
