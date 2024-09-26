@@ -73,7 +73,7 @@ img { /* idk wat dit is*/
   border-radius: 10px;
 }
 
- .kleurmodellen-1 {
+ .kleurmodellen-1 { /* een ingevulde border gemaakt voor mijn tekst*/
   width: 40%;
   border:pink;
   background-color: pink;
@@ -83,7 +83,7 @@ img { /* idk wat dit is*/
   border-radius: 10px;
  }
 
- .kleurmodellen-2 {
+ .kleurmodellen-2 {   /* een ingevulde border gemaakt voor mijn tekst*/
   width: 40%;
   border:pink;
   background-color: pink;
@@ -93,7 +93,7 @@ img { /* idk wat dit is*/
   border-radius: 10px;
  }
  
- .kleurmodellen-3 {
+ .kleurmodellen-3 {  /* een ingevulde border gemaakt voor mijn tekst*/
   width: 40%;
   border:pink;
   background-color: pink;
@@ -107,4 +107,3 @@ img { /* idk wat dit is*/
   font-size: 20px;
   font-style: oblique;
  }
- 
