@@ -93,8 +93,9 @@ img { /* idk wat dit is*/
   border-radius: 10px;
   float: right;   /* deze alinea aan de rechter kant gezet want ziet er leuk uit*/
  }
- .cmy { /*dit is het kopje dat ik ook naar de rechter kant van mijn pagina heb verplaatst*/
-
+ 
+ .cmy {  /*dit is het kopje dat ik ook naar de rechter kant van mijn pagina heb verplaatst*/
+  text-align: right;
  }
  
 
