@@ -108,3 +108,33 @@ img { /* idk wat dit is*/
   font-size: 20px;
   font-style: oblique;
  }
+
+ .bitmap {
+  width: 40%;
+  border:pink;
+  background-color: pink;
+  color: black;
+  padding: 9px;
+  margin-left: 9;
+  border-radius: 10px;
+ }
+
+ .vector {
+  width: 40%;
+  border:pink;
+  background-color: pink;
+  color: black;
+  padding: 9px;
+  margin-left: 9;
+  border-radius: 10px;
+ }
+
+ .vector-2 {
+  width: 40%;
+  border:pink;
+  background-color: pink;
+  color: black;
+  padding: 9px;
+  margin-left: 9;
+  border-radius: 10px;
+ }
