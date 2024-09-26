@@ -72,3 +72,32 @@ img { /* idk wat dit is*/
   border-radius: 10px;
 }
 
+ .kleurmodellen-1 {
+  width: 40%;
+  border:pink;
+  background-color: pink;
+  color: black;
+  padding: 9px;
+  margin-left: 9;
+  border-radius: 10px;
+ }
+
+ .kleurmodellen-2 {
+  width: 40%;
+  border:pink;
+  background-color: pink;
+  color: black;
+  padding: 9px;
+  margin-left: 9;
+  border-radius: 10px;
+ }
+ 
+ .kleurmodellen-3 {
+  width: 40%;
+  border:pink;
+  background-color: pink;
+  color: black;
+  padding: 9px;
+  margin-left: 9;
+  border-radius: 10px;
+ }
