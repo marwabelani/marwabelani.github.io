@@ -62,6 +62,7 @@ img { /* idk wat dit is*/
   image-rendering: auto;
   border: 20%;
 }
+
 .introtwee { /*een ingevulde border gemaakt voor het 2e stuk tekst over mij*/
   width: 40%;
   border:pink;
@@ -100,10 +101,6 @@ img { /* idk wat dit is*/
   padding: 9px;
   margin-left: 9;
   border-radius: 10px;
- }
-
- h2 {
-  text-shadow:peru;
  }
 
  p {
