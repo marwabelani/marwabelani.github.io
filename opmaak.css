@@ -156,7 +156,8 @@ img { /* afmetingen van mijn plaatjes*/
   margin-left: 9;
   border-radius: 10px;
  }
- .compressie-1 {                
+
+ .compressie-1 {          /* een ingevulde border gemaakt voor mijn tekst*/        
   width: 60%;
   border:pink;
   background-color: pink;
@@ -165,7 +166,8 @@ img { /* afmetingen van mijn plaatjes*/
   margin-left: 9;
   border-radius: 10px;
  }
-  .compressie-2 {
+
+  .compressie-2 {  /* een ingevulde border gemaakt voor mijn tekst*/
     width: 60%;
     border:pink;
     background-color: pink;
@@ -174,7 +176,8 @@ img { /* afmetingen van mijn plaatjes*/
     margin-left: 15;
     border-radius: 10px;
   }
-  .compressie-3 {
+
+  .compressie-3 {  /* een ingevulde border gemaakt voor mijn tekst*/
     width: 80%;
     border:pink;
     background-color: pink;
@@ -184,7 +187,7 @@ img { /* afmetingen van mijn plaatjes*/
     border-radius: 10px;
   }
 
-  .binair-1 {
+  .binair-1 {  /* een ingevulde border gemaakt voor mijn tekst*/
     width: 60%;
     border:pink;
     background-color: pink;
@@ -194,7 +197,7 @@ img { /* afmetingen van mijn plaatjes*/
     border-radius: 10px;
   }
 
-  .tientallig {
+  .tientallig {  /* een ingevulde border gemaakt voor mijn tekst*/
     width: 70%;
     border:pink;
     background-color: pink;
@@ -203,7 +206,8 @@ img { /* afmetingen van mijn plaatjes*/
     margin-left: 15;
     border-radius: 10px;
   }
-  .ASCII {
+
+  .ASCII {  /* een ingevulde border gemaakt voor mijn tekst*/
     width: 60%;
     border:pink;
     background-color: pink;
