@@ -52,11 +52,11 @@ ul {
 /* De tekst waarvan ik een class had gemaakt genaamd: introductie
 heb ik een ingevulde border gegeven*/
 
-img { /* idk wat dit is*/
+img { /* afmetingen van mijn plaatjes*/
   display:inline;
   margin-bottom: 10px;
   height: 150px;
-  width: 150px;
+  width: 250px;
   image-rendering: auto;
   border: 20%;
 }
