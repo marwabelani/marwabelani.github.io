@@ -40,7 +40,7 @@ ul {
  }
  /* kleur van als je met je muis op het menu gaat staan*/
 
- .introductie {
+ .introductie {   /* een ingevulde border gemaakt voor mijn tekst*/
   width: 50%;
   border:pink;
   background-color: pink;
@@ -140,7 +140,7 @@ img { /* idk wat dit is*/
   border-radius: 10px;
  }
 
- .geluid-1 {
+ .geluid-1 {  /* een ingevulde border gemaakt voor mijn tekst*/
   width: 60%;
   border:pink;
   background-color: pink;
@@ -150,7 +150,7 @@ img { /* idk wat dit is*/
   border-radius: 10px;
  }
 
- .geluid-2 {
+ .geluid-2 {   /* een ingevulde border gemaakt voor mijn tekst*/
   width: 60%;
   border:pink;
   background-color: pink;
