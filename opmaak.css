@@ -203,3 +203,12 @@ img { /* afmetingen van mijn plaatjes*/
     margin-left: 15;
     border-radius: 10px;
   }
+  .ASCII {
+    width: 60%;
+    border:pink;
+    background-color: pink;
+    color: black;
+    padding: 9px;
+    margin-left: 15;
+    border-radius: 10px;
+  }
