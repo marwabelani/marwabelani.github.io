@@ -174,3 +174,12 @@ img { /* idk wat dit is*/
     margin-left: 15;
     border-radius: 10px;
   }
+  .compressie-3 {
+    width: 60%;
+    border:pink;
+    background-color: pink;
+    color: black;
+    padding: 9px;
+    margin-left: 9;
+    border-radius: 10px;
+  }
