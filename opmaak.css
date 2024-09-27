@@ -1,7 +1,6 @@
 body { 
   background-image: url(f97222cb2289d60e35d45c356e80a705.jpg);
   width:100%;
-
 }
 /* Achtergrond veranderd van een kleur naar een plaatje*/
 ul {
@@ -53,7 +52,6 @@ ul {
 /* De tekst waarvan ik een class had gemaakt genaamd: introductie
 heb ik een ingevulde border gegeven*/
 
-
 img { /* idk wat dit is*/
   display:inline;
   margin-bottom: 10px;
@@ -93,8 +91,7 @@ img { /* idk wat dit is*/
   border-radius: 10px;
   float: right;   /* deze alinea aan de rechter kant gezet want ziet er leuk uit*/
  }
- 
- 
+  
  .kleurmodellen-3 {  /* een ingevulde border gemaakt voor mijn tekst*/
   width: 40%;
   border:pink;
@@ -174,6 +171,6 @@ img { /* idk wat dit is*/
     background-color: pink;
     color: black;
     padding: 9px;
-    margin-left: 9;
+    margin-left: 15;
     border-radius: 10px;
   }
