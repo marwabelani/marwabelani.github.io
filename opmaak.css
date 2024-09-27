@@ -139,3 +139,13 @@ img { /* idk wat dit is*/
   margin-left: 9;
   border-radius: 10px;
  }
+
+ .geluid-1 {
+  width: 60%;
+  border:pink;
+  background-color: pink;
+  color: black;
+  padding: 9px;
+  margin-left: 9;
+  border-radius: 10px;
+ }
